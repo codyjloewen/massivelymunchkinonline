@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "Sandals of Protection",
+    "tags": [],
+    "guid": "sandals-of-protection",
+    "deckType": "TREASURE",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "value": 700,
+  "size": "SMALL",
+  "usableBy": [],
+  "notUsableBy": [],
+  "equippableSlots": {
+    "headgear": 0,
+    "armor": 0,
+    "hands": 0,
+    "footgear": 1
+  }
+}

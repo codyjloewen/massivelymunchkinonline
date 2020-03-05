@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "Rapier of Unfairness",
+    "tags": [],
+    "guid": "rapier-of-unfairness",
+    "deckType": "TREASURE",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "modifiers": [],
+  "value": 600,
+  "size": "SMALL",
+  "usableBy": ["ELF"],
+  "notUsableBy": [],
+  "equippableSlots": {
+    "headgear": 0,
+    "armor": 0,
+    "hands": 1,
+    "footgear": 0
+  }
+}

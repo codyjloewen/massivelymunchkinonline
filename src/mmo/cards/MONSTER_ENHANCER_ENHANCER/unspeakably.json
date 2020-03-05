@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "name": "Unspeakably",
+    "tags": [],
+    "guid": "unspeakably",
+    "deckType": "DOOR",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "bonusModifier": 5,
+  "treasureModifier": 1
+}

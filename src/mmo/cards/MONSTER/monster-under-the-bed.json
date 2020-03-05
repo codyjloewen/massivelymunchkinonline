@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Monster Under the Bed",
+    "tags": [],
+    "guid": "monster-under-the-bed",
+    "deckType": "DOOR",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "bonus": 2,
+  "levels": 1,
+  "treasures": 1,
+  "modifiers": [
+    {
+      "bonusModifier": 2,
+      "conditionType": "IS_HALFLING"
+    },
+    {
+      "bonusModifier": 2,
+      "conditionType": "IS_DWARF"
+    }
+  ]
+}

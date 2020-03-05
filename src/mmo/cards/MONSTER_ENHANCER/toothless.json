@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "name": "Toothless",
+    "tags": [],
+    "guid": "toothless",
+    "deckType": "DOOR",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "bonusModifier": -5,
+  "treasureModifier": -1
+}

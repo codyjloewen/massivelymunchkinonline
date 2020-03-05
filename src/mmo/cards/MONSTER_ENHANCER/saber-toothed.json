@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "name": "Saber-Toothed",
+    "tags": [],
+    "guid": "saber-toothed",
+    "deckType": "DOOR",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "bonusModifier": 5,
+  "treasureModifier": 1
+}

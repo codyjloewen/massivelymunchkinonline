@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "name": "Fly-By Knight",
+    "tags": [],
+    "guid": "fly-by-knight",
+    "deckType": "DOOR",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "bonus": 5,
+  "levels": 1,
+  "treasures": 2,
+  "modifiers": [
+    {
+      "bonusModifier": 3,
+      "conditionType": "NO_HEADGEAR"
+    }
+  ]
+}

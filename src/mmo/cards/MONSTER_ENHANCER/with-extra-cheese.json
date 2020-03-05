@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "name": "... With Extra Cheese",
+    "tags": [],
+    "guid": "with-extra-cheese",
+    "deckType": "DOOR",
+    "expansion": "MUNCHKIN_BASE",
+    "variants": ["1", "2", "3"]
+  },
+  "bonusModifier": 5,
+  "treasureModifier": 1
+}

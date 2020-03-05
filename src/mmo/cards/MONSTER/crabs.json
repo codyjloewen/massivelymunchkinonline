@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Crabs",
+    "tags": [],
+    "guid": "crabs",
+    "deckType": "DOOR",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "bonus": 1,
+  "levels": 1,
+  "treasures": 1,
+  "modifiers": []
+}

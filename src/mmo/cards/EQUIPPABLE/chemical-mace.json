@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "name": "Chemical Mace",
+    "tags": [],
+    "guid": "chemical-mace",
+    "deckType": "TREASURE",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "value": 500,
+  "size": "SMALL",
+  "usableBy": [],
+  "notUsableBy": [],
+  "equippableSlots": {
+    "headgear": 0,
+    "armor": 0,
+    "hands": 1,
+    "footgear": 0
+  }
+}

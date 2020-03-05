@@ -1,0 +1,17 @@
+package mmo.card;
+
+public enum CardType {
+    CLASS,
+    CLASS_ENHANCER,
+    CURSE,
+    EQUIPPABLE,
+    GO_UP_A_LEVEL,
+    HIRELING,
+    ITEM_ENHANCER,
+    MONSTER,
+    MONSTER_ENHANCER,
+    MONSTER_ENHANCER_ENHANCER,
+    RACE,
+    RACE_ENHANCER,
+    STEED
+}

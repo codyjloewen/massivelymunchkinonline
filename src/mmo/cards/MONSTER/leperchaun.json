@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "name": "Leperchaun",
+    "tags": [],
+    "guid": "leperchaun",
+    "deckType": "DOOR",
+    "expansion": "MUNCHKIN_BASE"
+  },
+  "bonus": 4,
+  "levels": 1,
+  "treasures": 2,
+  "modifiers": [
+    {
+      "bonusModifier": 5,
+      "conditionType": "IS_ELF"
+    }
+  ]
+}
